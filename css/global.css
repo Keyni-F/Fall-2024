@@ -8,13 +8,13 @@
 
 :root {
 
-/* var(--dominantColor) !important; */
---dominantColor: 	#c12f39;
+/*var (--dominatColor) !important; */
+--dominantColor: #c12f39;  
 
-/* var(--secondaryColor) !important; */
---secondaryColor: 	#C16d2f;
+/*var (--secondaryColor) !important; */
+--secondaryColor:	#c16d2f;
 
-/* var(--accentColor) !important; */
---accentColor: 	#c12f82;
+/*var (--accentColor) !important; */
+--accentColor:	 #c12f82;
 
 }
