@@ -1,9 +1,9 @@
 /* colors */
 
 /*
-60% of 	#c12f39	
-30% of 	#c16d2f
-10% of #c12f82
+60% of 	#c12f39	- Primary
+30% of 	#c16d2f - Secondary
+10% of #c12f82 - Accent
 */
 
 :root {
@@ -12,7 +12,7 @@
 --dominantColor: 	#c12f39;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: 	#c16d2f;
+--secondaryColor: 	#C16d2f;
 
 /* var(--accentColor) !important; */
 --accentColor: 	#c12f82;
