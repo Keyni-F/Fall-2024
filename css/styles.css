@@ -3,11 +3,11 @@
 
 .test-font {
 
-    color:#c12f 
+    color:var(--dominatColor) !important;
 }
 
 .test-font-2 {
 
-    color:#c12f
+    color:var(--dominatColor) !important;
      
 }
