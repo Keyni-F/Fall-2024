@@ -1,19 +1,18 @@
-@import 'global.css';
-@import 'main.css';
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+@import "global.css";
+@import "main.css";
 
-.fa-row{
-    background-color: var(--dominantColor) !important;
-    padding: 35px;
-    color: #ffffff;
+.fa-row {
+  background-color: var(--dominantColor) !important;
+  padding: 35px;
+  color: #ffffff;
 }
 
 .fa-row-icon {
-    font-size: 70px;
-    color: #ffffff;
+  font-size: 70px;
+  color: #ffffff;
 }
 
-
 .fa-row-icon:hover {
-
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
