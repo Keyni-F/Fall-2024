@@ -67,7 +67,7 @@ h6 {
   text-decoration: none;
 }
 
-.blockquote {
+blockquote {
   font-family: Georgia, serif;
   font-size: 18px;
   font-style: italic;
@@ -75,5 +75,16 @@ h6 {
   padding: 0.35em 40px;
   line-height: 1.45;
   position: relative;
+  color: var(--accentColor) !important;
+}
+
+blockquote::before {
+  display: block;
+  padding-left: 10px;
+  content: "";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
   color: var(--accentColor) !important;
 }
